@@ -39,5 +39,5 @@ This is a **Laravel 11 Blog Application** that provides a complete blogging plat
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/laravel-blog.git
+git clone https://github.com/pankajsharmaucs/laravel-11-blog-project.git
 cd laravel-blog
